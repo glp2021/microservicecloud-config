@@ -19,7 +19,7 @@ server:
 spring:
   profiles: test
   application:
-    name: microservicecloud-config-client-123
+    name: microservicecloud-config-client-1234
 eureka:
   client:
     service-url:
